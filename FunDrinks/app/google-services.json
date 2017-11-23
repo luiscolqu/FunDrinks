@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "164829561538",
+    "firebase_url": "https://fundrinks-17dee.firebaseio.com",
+    "project_id": "fundrinks-17dee",
+    "storage_bucket": "fundrinks-17dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164829561538:android:120fac0e0da9fccb",
+        "android_client_info": {
+          "package_name": "pe.edu.utp.fundrinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164829561538-80bsjj6kil2d05io1sgu2v7i4cup7kj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.utp.fundrinks",
+            "certificate_hash": "386732c5bc865b20108fde9fa464b5114dea1f31"
+          }
+        },
+        {
+          "client_id": "164829561538-7bn0vrj9iq1dah8khbb5mqcrc3274h4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1J7YscRwA_doDi965F7VsDD1uFOXfUSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164829561538-7bn0vrj9iq1dah8khbb5mqcrc3274h4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
